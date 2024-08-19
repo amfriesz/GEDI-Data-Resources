@@ -18,7 +18,7 @@ Remember your username and password; and use it to log in to Earthdata Search.
 Search for a GEDI Version 2 collection by entering "GEDI v2"/"GEDI" or the dataset short name (e.g., GEDI01_B v002) into the search box in the upper left-hand corner of the page, and check the box for "Customizable" option under Feature options. The list of matching collections in the middle panel will be updated with your input. 
 Hover over the collections and select your collection. 
 
-![Image shows the collection search for GEDI granules in Earthdata Search](https://github.com/nasa/GEDI-Data-Resources/tree/main/img/collection.png)
+![Image shows the collection search for GEDI granules in Earthdata Search](../img/collection.png)
 
 ## Step 3. Perform a Spatiotemporal Search for Granules
 
