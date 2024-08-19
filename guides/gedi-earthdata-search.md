@@ -28,7 +28,7 @@ The spatial subsetting allows you to draw a polygon, circle, or rectangle region
 
 **Note** that there is an existing issue with uploading zipped shapefile currently.
 
-![Image shows the spatiotemporal subset for GEDI granules in Earthdata Search](https://github.com/nasa/GEDI-Data-Resources/tree/main/img/granules.png)
+![Image shows the spatiotemporal subset for GEDI granules in Earthdata Search](../img/granules.png)
 
 ## Step 4: Selecting Granules for Download  
 
@@ -47,7 +47,7 @@ To clip the granules to the exact boundaries of a GeoJSON or shapefile, deselect
 Select specific science dataset layers to extract by scrolling down to the Band Subsetting section. Expand the directories and select the desired GEDI beams and/or layers. Additional information for each of the data layers can be found on [GEDI product Digital Object Identifier (DOI) landing pages](https://lpdaac.usgs.gov/product_search/?collections=GEDI&status=Operational&view=cards&sort=title).
 After the desired parameters for spatial and/or layer subsetting have been selected, click Done to complete the custom order form then click Download Data to initiate the order. 
 
-![Image shows the customized option for GEDI data in Earthdata Search](https://github.com/nasa/GEDI-Data-Resources/tree/main/img/customize.png)
+![Image shows the customized option for GEDI data in Earthdata Search](../img/customize.png)
 
 ## Step 6: Retrieve Data  
 
@@ -64,4 +64,4 @@ Download the output files by clicking on the .zip link in the email and unzippin
 Automate downloading by saving the .txt file and using command line utilities [wget](https://github.com/nasa/LPDAAC-Data-Resources/blob/main/guides/bulk_download_using_wget.md) and [curl](https://github.com/nasa/LPDAAC-Data-Resources/blob/main/guides/bulk_download_using_curl.md). Additionally, R or Python can be used to download data directly from the .txt or .csv file using the scripts provided in How to [Access the LP DAAC Data Pool with R](https://git.earthdata.nasa.gov/projects/LPDUR/repos/daac_data_download_r/browse) and [How to Access the LP DAAC Data Pool with Python](https://git.earthdata.nasa.gov/projects/LPDUR/repos/daac_data_download_python/browse/DAACDataDownload.py).
 
 
-![Image shows the Dowanlaod Status page in Earthdata Search](https://github.com/nasa/GEDI-Data-Resources/tree/main/img/download.png)
+![Image shows the Dowanlaod Status page in Earthdata Search](../img/download.png)
